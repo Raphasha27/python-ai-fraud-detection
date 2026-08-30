@@ -182,9 +182,11 @@ python-ai-fraud-detection/
 
 MIT License - see [LICENSE](LICENSE) for details
 
-
 ## Live Demo
-- **Cloudflare Pages:** [https://fraud-detection-api-3pg.pages.dev](https://fraud-detection-api-3pg.pages.dev)
-- **GitHub Pages:** [https://raphasha27.github.io/python-ai-fraud-detection](https://raphasha27.github.io/python-ai-fraud-detection)
-- **Docker Hub:** [docker pull raphasha27/python-ai-fraud-detection](https://hub.docker.com/r/raphasha27/python-ai-fraud-detection)
+
+| Platform | URL |
+|----------|-----|
+| GitHub Pages | [https://raphasha27.github.io/python-ai-fraud-detection](https://raphasha27.github.io/python-ai-fraud-detection) |
+| Docker Hub | [docker pull raphasha27/python-ai-fraud-detection](https://hub.docker.com/r/raphasha27/python-ai-fraud-detection) |
+| Cloudflare Pages | [https://fraud-detection-api-3pg.pages.dev](https://fraud-detection-api-3pg.pages.dev) |
 
